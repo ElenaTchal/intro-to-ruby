@@ -1,2 +1,3 @@
 # intro-to-ruby
-testing connection to github.com
+following along with the LS book
+
